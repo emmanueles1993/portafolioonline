@@ -6,17 +6,17 @@ function contact() {
   return (
     <div className="contact">
       <Separator />
-      <label className="section-title">Contactame</label>
+      <label className="section-title">Contáctame</label>
       <div className="contact-container">
         <div className="contact-left">
 <p> ¿Quieres ponerte en contacto ?
-Contactame en cualquiera de las plataformas</p>
+Contáctame en cualquiera de las plataformas</p>
 <SocialContact />
         </div>
         <div className="download">
           <a download href={require("../../../assets/cv.pdf")}>
             <i class="fi-rr-cloud-download download-icon" />
-            Download CV
+            Descargar CV
           </a>
 
         </div>

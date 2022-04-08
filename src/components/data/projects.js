@@ -14,7 +14,7 @@ export const projectData = [
     id: 2,
     title: "Proyecto Toquen el DOM",
     about:
-      "Es un proyecto educativo realizado por 2 personas que busca poder enseñar a tocar ciertos instrumentos de forma didáctica a cualquier persona, sin que este tenga el instrumento, esto lologramos por medio del navegador, utilizando  elJavaScript hemos creado una app que permite a los usuarios interactuar con diferentes tipos de instrumentos musicales",
+      "Es un proyecto educativo realizado por 2 personas que busca poder enseñar a tocar ciertos instrumentos de forma didáctica a cualquier persona, sin que este tenga el instrumento, esto lo logramos por medio del navegador, utilizando  JavaScript hemos creado una app que permite a los usuarios interactuar con diferentes tipos de instrumentos musicales",
     tags: ["Html", "Css", "Javascript"],
     demo: "https://emmanueles1993.github.io/EscueladeMusica/",
     github: "https://github.com/emmanueles1993/EscueladeMusica",
@@ -25,8 +25,8 @@ export const projectData = [
     id: 3,
     title: "Proyecto Ecommerce",
     about:
-      "Es un proyecto donde tendrás acceso a un catálogode productos de la mejor comida de mar de la costa, gracias a esta tienda online, el usuario podrá acceder a varias categorías de productos,con sus filtros, y realizar el pedido por medio de la API de WHATSAPP,  todo esto gracias a las tecnologías de React y bootstrap.",
-    tags: ["Html", "Css", "Javascript", "React"],
+      "Es un proyecto donde tendrás acceso a un catálogo de productos de la mejor comida de mar de la costa, gracias a esta tienda online, el usuario podrá acceder a varias categorías de productos, con sus filtros, y realizar el pedido por medio de la Api de WhatsApp, todo esto gracias a las tecnologías de React y bootstrap.",
+    tags: ["Html", "Css", "React"],
     demo: "https://wonderful-leavitt-2939ab.netlify.app/",
     github: "https://github.com/emmanueles1993/ecommerce-un-cliente-real-",
     image: "https://i.postimg.cc/t4bzGW2c/Categorias.png",
@@ -36,8 +36,8 @@ export const projectData = [
     id: 4,
     title: "Proyecto To-Do-List MERN",
     about:
-      "Es un proyecto donde tendrás acceso a un catálogode productos de la mejor comida de mar de la costa, gracias a esta tienda online, el usuario podrá acceder a varias categorías de productos,con sus filtros, y realizar el pedido por medio de la API de WHATSAPP,  todo esto gracias a las tecnologías de React y bootstrap.",
-    tags: ["Html", "Css", "Javascript", "React"],
+      "Es un proyecto realizado con diferentes tecnologías, el stack MERN, donde se crea una aplicación de tareas, donde el usuario puede crear, editar y eliminar la lista a su gusto",
+    tags: ["Html", "Css", "React", "MongoDB", "Nodejs"],
     demo: "https://mongomerntodolis.herokuapp.com/",
     github: "https://github.com/emmanueles1993/todolistmern",
     image: "https://i.postimg.cc/YqGjpCXB/stackmern.png",

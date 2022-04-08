@@ -7,6 +7,24 @@
     align-items: center;
 }
 
+.content-button{
+position: fixed;
+}
+
+.content-button a{
+padding: 0.5rem 1rem;
+border: none;
+border-radius: 50%;
+background-color: black;
+margin-left: -5rem;
+color: white;
+}
+
+@media (max-width: 720px){
+    .content-button a{
+        margin-left: 0;
+    }
+}
 .picture {
     height: 420px;
 }

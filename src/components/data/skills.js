@@ -1,6 +1,6 @@
 export const SkillsData = [
   {
-    type: "Fronted",
+    type: "Frontend",
     list: [
       {
         name: "HTML",
