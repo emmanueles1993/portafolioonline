@@ -1,3 +1,48 @@
+### Features
+
+# Bienvenidos a mi Portafolio Online
+
+Soy un desarrollador Frontend, busco colaborar en
+una posición como Junior Developer, ya que
+actualmente he trabajado en proyectos con
+tecnologías enfocadas al desarrollo web, como lo
+son: HTML, CSS, JavaScript y React.
+
+# Presentación
+
+[![acerca-de-mi.png](https://i.postimg.cc/6389tGsD/acerca-de-mi.png)](https://postimg.cc/PpkGMJ54)
+
+# Proyectos
+
+[![proyectos.png](https://i.postimg.cc/bwL8nRp7/proyectos.png)](https://postimg.cc/Mnch2Vc5)
+
+# Habilidades
+
+[![habilidades.png](https://i.postimg.cc/sXGRtd7z/habilidades.png)](https://postimg.cc/cgWjnzFk)
+
+## Construido con
+
+- Javascript
+- React
+- Css
+- Html
+
+## Despliegue
+
+Heroku
+
+## Autores
+
+- Emmanuel Estupiñan
+
+## Licencia
+
+Este Proyecto es de libre uso, con sus Respectivas Condiciones, se puede hacer lo que se desee con el, menos generar ingresos.
+
+## Links Importantes
+
+[Sprint con historias de usuario y requerimientos técnicos.](https://emmanueles1993.atlassian.net/jira/software/projects/PO/boards/3)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
